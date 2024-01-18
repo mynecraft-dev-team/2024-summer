@@ -1,0 +1,2 @@
+bossbar set timer name ["",{"text":"\u5236\u9650\u6642\u9593 : ","color":"gold"},{"score":{"name":"min","objective":"timer"},"bold":true,"color":"gold"},{"text":"\u5206 ","color":"gold"},{"score":{"name":"sec","objective":"timer"},"bold":true,"color":"gold"},{"text":"\u79d2","color":"gold"}]
+execute store result bossbar timer value run scoreboard players get 8fffdffc-7fb4-430d-863c-c36689dc55bd gametimer
