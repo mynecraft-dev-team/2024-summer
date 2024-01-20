@@ -1,0 +1,1 @@
+bossbar set timer visible true
