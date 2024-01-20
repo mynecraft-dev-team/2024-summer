@@ -1,1 +1,0 @@
-scoreboard players set 8fffdffc-7fb4-430d-863c-c36689dc55bd timer 18000
