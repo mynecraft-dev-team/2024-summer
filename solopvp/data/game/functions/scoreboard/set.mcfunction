@@ -1,3 +1,4 @@
+scoreboard objectives remove playerKillCount
 scoreboard objectives add timer dummy "制限時間"
 scoreboard objectives add playerKillCount playerKillCount "殺した回数"
 scoreboard objectives setdisplay list playerKillCount
